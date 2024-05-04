@@ -261,6 +261,12 @@ int main() {
 # OUTPUT
 ![image](https://github.com/Sanjushri13/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/164732231/f5c64cea-f407-4e93-8889-153364c7c555)
 
+![image](https://github.com/Sanjushri13/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/164732231/af81a85e-4568-40a1-8802-8609e44c68b4) 
+
+![image](https://github.com/Sanjushri13/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/164732231/550d9ebf-56f6-48a7-a09d-08b81fe1e4c7)
+
+
+
 # RESULT
 The heap storage allocation strategy is implemented successfully, and the output is 
 verified.
